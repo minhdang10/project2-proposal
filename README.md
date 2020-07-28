@@ -9,9 +9,9 @@ Timeframe/Schedule
 * Show the nearest city bike station when the user inputs the address/zip code/ coordinates and also return the station information
 
 ## What 3rd party API are you going to use?
-https://github.com/eskerda/pybikes
-http://api.citybik.es/v2/?fbclid=IwAR2TpUUAClRbMLAOWrN-AZFrA6fruZ7onCNNOOZdvBMFhK4APzWmvc2X18Y
-http://api.citybik.es/v2/networks
+* https://github.com/eskerda/pybikes
+* http://api.citybik.es/v2/? fbclid=IwAR2TpUUAClRbMLAOWrN-AZFrA6fruZ7onCNNOOZdvBMFhK4APzWmvc2X18Y
+* http://api.citybik.es/v2/networks
 
 ## Tentative Technology:
 Calculate distance based on the coordinates
@@ -19,7 +19,7 @@ Return the closest available bikes and docks
 Having multiple filters (name, system, company, etc.)
 
 ## Wireframe
-[!Wireframe](./wireframe.png)
+![Wireframe](wireframe.png)
 
 ## Expected roadblocks
 * Time (of course)
