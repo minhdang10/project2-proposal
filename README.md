@@ -1,5 +1,5 @@
-Expected roadblocks
-Timeframe/Schedule
+* https://en.wikipedia.org/wiki/Haversine_formula
+* https://stackoverflow.com/questions/18883601/function-to-calculate-distance-between-two-coordinates 
 
 ## What is your application?
 1. Problem: 
